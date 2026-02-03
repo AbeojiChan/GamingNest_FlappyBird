@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: e85a49deba2296146aa8d880b6192ff1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3012357013545358797
+    second: BirdSpriteBig2_0
+  - first:
+      213: 4446109262003168065
+    second: BirdSpriteBig2_1
+  - first:
+      213: -4204926185861688183
+    second: BirdSpriteBig2_2
+  - first:
+      213: -8140597853313817668
+    second: BirdSpriteBig2_3
+  - first:
+      213: 745725236745144384
+    second: BirdSpriteBig2_4
+  - first:
+      213: -6413795531511200068
+    second: BirdSpriteBig2_5
+  - first:
+      213: -8540085348627318828
+    second: BirdSpriteBig2_6
+  - first:
+      213: -4905780713622090878
+    second: BirdSpriteBig2_7
+  - first:
+      213: -7763134875040887505
+    second: BirdSpriteBig2_8
+  - first:
+      213: -3015704899044305072
+    second: BirdSpriteBig2_9
+  - first:
+      213: -402265593428825477
+    second: BirdSpriteBig2_10
+  - first:
+      213: 5657156992673206372
+    second: BirdSpriteBig2_11
+  - first:
+      213: 5777436784414036831
+    second: BirdSpriteBig2_12
+  - first:
+      213: 1602540030709663321
+    second: BirdSpriteBig2_13
+  - first:
+      213: 8173741059701010054
+    second: BirdSpriteBig2_14
+  - first:
+      213: 6931421377203567680
+    second: BirdSpriteBig2_15
+  - first:
+      213: 1488554724980856806
+    second: BirdSpriteBig2_16
+  - first:
+      213: 2776003893502112534
+    second: BirdSpriteBig2_17
+  - first:
+      213: -3572561545144695625
+    second: BirdSpriteBig2_18
+  - first:
+      213: -3995068602640323424
+    second: BirdSpriteBig2_19
+  - first:
+      213: -7950703594171669795
+    second: BirdSpriteBig2_20
+  - first:
+      213: 5986398062562085752
+    second: BirdSpriteBig2_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BirdSpriteBig2_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 319
+        width: 142
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ae8fe9145f136d0800000000000000
+      internalID: -3012357013545358797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdSpriteBig2_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 319
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143e54a31d0c3bd30800000000000000
+      internalID: 4446109262003168065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdSpriteBig2_2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 369
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984d9f0a9e915a5c0800000000000000
+      internalID: -4204926185861688183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdSpriteBig2_3
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 379
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb32ce51269c60f80800000000000000
+      internalID: -8140597853313817668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdSpriteBig2_4
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 379
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0480d3cd629595a00800000000000000
+      internalID: 745725236745144384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdSpriteBig2_5
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 379
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6894222fe9df6a0800000000000000
+      internalID: -6413795531511200068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdSpriteBig2_6
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 379
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7fc8b6f958b7980800000000000000
+      internalID: -8540085348627318828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdSpriteBig2_7
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 389
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bc792de6a2bebb0800000000000000
+      internalID: -4905780713622090878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdSpriteBig2_8
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 389
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dcdb546fdc34490800000000000000
+      internalID: -7763134875040887505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdSpriteBig2_9
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 389
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0571f094f501626d0800000000000000
+      internalID: -3015704899044305072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdSpriteBig2_10
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 319
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a2056f29dda6af0800000000000000
+      internalID: -402265593428825477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdSpriteBig2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 161
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46057eadf42428e40800000000000000
+      internalID: 5657156992673206372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdSpriteBig2_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 1121
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53164f25249d2050800000000000000
+      internalID: 5777436784414036831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdSpriteBig2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 151
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9560bc4daad5d3610800000000000000
+      internalID: 1602540030709663321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdSpriteBig2_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 152
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ee08dff26fe6170800000000000000
+      internalID: 8173741059701010054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdSpriteBig2_15
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 212
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c74c0b40b513060800000000000000
+      internalID: 6931421377203567680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdSpriteBig2_16
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 69
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7963bb2a868a410800000000000000
+      internalID: 1488554724980856806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdSpriteBig2_17
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 69
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6137b4f45d8568620800000000000000
+      internalID: 2776003893502112534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdSpriteBig2_18
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 69
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b40e63f336bb6ec0800000000000000
+      internalID: -3572561545144695625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdSpriteBig2_19
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 69
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acae4ec54aae88c0800000000000000
+      internalID: -3995068602640323424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdSpriteBig2_20
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 69
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2e9faa43d69a190800000000000000
+      internalID: -7950703594171669795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdSpriteBig2_21
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 69
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b89131255f31350800000000000000
+      internalID: 5986398062562085752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BirdSpriteBig2_0: -3012357013545358797
+      BirdSpriteBig2_1: 4446109262003168065
+      BirdSpriteBig2_10: -402265593428825477
+      BirdSpriteBig2_11: 5657156992673206372
+      BirdSpriteBig2_12: 5777436784414036831
+      BirdSpriteBig2_13: 1602540030709663321
+      BirdSpriteBig2_14: 8173741059701010054
+      BirdSpriteBig2_15: 6931421377203567680
+      BirdSpriteBig2_16: 1488554724980856806
+      BirdSpriteBig2_17: 2776003893502112534
+      BirdSpriteBig2_18: -3572561545144695625
+      BirdSpriteBig2_19: -3995068602640323424
+      BirdSpriteBig2_2: -4204926185861688183
+      BirdSpriteBig2_20: -7950703594171669795
+      BirdSpriteBig2_21: 5986398062562085752
+      BirdSpriteBig2_3: -8140597853313817668
+      BirdSpriteBig2_4: 745725236745144384
+      BirdSpriteBig2_5: -6413795531511200068
+      BirdSpriteBig2_6: -8540085348627318828
+      BirdSpriteBig2_7: -4905780713622090878
+      BirdSpriteBig2_8: -7763134875040887505
+      BirdSpriteBig2_9: -3015704899044305072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

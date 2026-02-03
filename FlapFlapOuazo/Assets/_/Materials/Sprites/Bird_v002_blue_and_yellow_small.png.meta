@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: cee567dbea27a8747879288c7f20d82c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2170911739334279833
+    second: Bird_v002_blue_and_yellow_small_0
+  - first:
+      213: 3243556528741082302
+    second: Bird_v002_blue_and_yellow_small_1
+  - first:
+      213: 7215253335707220556
+    second: Bird_v002_blue_and_yellow_small_2
+  - first:
+      213: -8978053603732173900
+    second: Bird_v002_blue_and_yellow_small_3
+  - first:
+      213: -5665856937098290735
+    second: Bird_v002_blue_and_yellow_small_4
+  - first:
+      213: -7044076680035286700
+    second: Bird_v002_blue_and_yellow_small_5
+  - first:
+      213: -7015109845193430307
+    second: Bird_v002_blue_and_yellow_small_6
+  - first:
+      213: -8299367234194288782
+    second: Bird_v002_blue_and_yellow_small_7
+  - first:
+      213: 1455337434668242710
+    second: Bird_v002_blue_and_yellow_small_8
+  - first:
+      213: -3149949739615208528
+    second: Bird_v002_blue_and_yellow_small_9
+  - first:
+      213: -6419091755234731565
+    second: Bird_v002_blue_and_yellow_small_10
+  - first:
+      213: 7804950610166451607
+    second: Bird_v002_blue_and_yellow_small_11
+  - first:
+      213: -6931880535779156021
+    second: Bird_v002_blue_and_yellow_small_12
+  - first:
+      213: 7169463904126103210
+    second: Bird_v002_blue_and_yellow_small_13
+  - first:
+      213: -5631463885990135732
+    second: Bird_v002_blue_and_yellow_small_14
+  - first:
+      213: 5486312655569124410
+    second: Bird_v002_blue_and_yellow_small_15
+  - first:
+      213: -8367219682039391119
+    second: Bird_v002_blue_and_yellow_small_16
+  - first:
+      213: -7079550694703070362
+    second: Bird_v002_blue_and_yellow_small_17
+  - first:
+      213: 1254760099708034335
+    second: Bird_v002_blue_and_yellow_small_18
+  - first:
+      213: 4126601794121759358
+    second: Bird_v002_blue_and_yellow_small_19
+  - first:
+      213: -3244337806102355119
+    second: Bird_v002_blue_and_yellow_small_20
+  - first:
+      213: 8883756691533181450
+    second: Bird_v002_blue_and_yellow_small_21
+  - first:
+      213: -7173158451333327055
+    second: Bird_v002_blue_and_yellow_small_22
+  - first:
+      213: -8400856401304443231
+    second: Bird_v002_blue_and_yellow_small_23
+  - first:
+      213: 2175621972087293590
+    second: Bird_v002_blue_and_yellow_small_24
+  - first:
+      213: -6417233597712302714
+    second: Bird_v002_blue_and_yellow_small_25
+  - first:
+      213: 301938462857781420
+    second: Bird_v002_blue_and_yellow_small_26
+  - first:
+      213: 4783369243241727643
+    second: Bird_v002_blue_and_yellow_small_27
+  - first:
+      213: 4521310138428533713
+    second: Bird_v002_blue_and_yellow_small_28
+  - first:
+      213: -1179799595648244255
+    second: Bird_v002_blue_and_yellow_small_29
+  - first:
+      213: -2162386297155706272
+    second: Bird_v002_blue_and_yellow_small_30
+  - first:
+      213: 6347187664752101352
+    second: Bird_v002_blue_and_yellow_small_31
+  - first:
+      213: 7609695995346126688
+    second: Bird_v002_blue_and_yellow_small_32
+  - first:
+      213: 7523810665381004694
+    second: Bird_v002_blue_and_yellow_small_33
+  - first:
+      213: 2547202496973213718
+    second: Bird_v002_blue_and_yellow_small_34
+  - first:
+      213: 7499914927190422029
+    second: Bird_v002_blue_and_yellow_small_35
+  - first:
+      213: 5643660022016523235
+    second: Bird_v002_blue_and_yellow_small_36
+  - first:
+      213: 7253382322348667817
+    second: Bird_v002_blue_and_yellow_small_37
+  - first:
+      213: 6489490835043191916
+    second: Bird_v002_blue_and_yellow_small_38
+  - first:
+      213: -6600968688837368807
+    second: Bird_v002_blue_and_yellow_small_39
+  - first:
+      213: 756492661896300887
+    second: Bird_v002_blue_and_yellow_small_40
+  - first:
+      213: 5971667157989675035
+    second: Bird_v002_blue_and_yellow_small_41
+  - first:
+      213: 8800831182424548538
+    second: Bird_v002_blue_and_yellow_small_42
+  - first:
+      213: -3224949409321038832
+    second: Bird_v002_blue_and_yellow_small_43
+  - first:
+      213: 6470469311182317564
+    second: Bird_v002_blue_and_yellow_small_44
+  - first:
+      213: -7908034713319686066
+    second: Bird_v002_blue_and_yellow_small_45
+  - first:
+      213: -566217981627405506
+    second: Bird_v002_blue_and_yellow_small_46
+  - first:
+      213: -1123779849876107381
+    second: Bird_v002_blue_and_yellow_small_47
+  - first:
+      213: 3476691811908929521
+    second: Bird_v002_blue_and_yellow_small_48
+  - first:
+      213: 8865683991475198600
+    second: Bird_v002_blue_and_yellow_small_49
+  - first:
+      213: 4456478913100409758
+    second: Bird_v002_blue_and_yellow_small_50
+  - first:
+      213: 3751213221049067135
+    second: Bird_v002_blue_and_yellow_small_51
+  - first:
+      213: -5428473754760168338
+    second: Bird_v002_blue_and_yellow_small_52
+  - first:
+      213: -4627034341836212192
+    second: Bird_v002_blue_and_yellow_small_53
+  - first:
+      213: 7693074323430231172
+    second: Bird_v002_blue_and_yellow_small_54
+  - first:
+      213: -3126332905052610637
+    second: Bird_v002_blue_and_yellow_small_55
+  - first:
+      213: 376609386498044410
+    second: Bird_v002_blue_and_yellow_small_56
+  - first:
+      213: -5789379994837080849
+    second: Bird_v002_blue_and_yellow_small_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bird_v002_blue_and_yellow_small_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 42
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992ceb599b0a02e10800000000000000
+      internalID: 2170911739334279833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_v002_blue_and_yellow_small_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 42
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4e2805a7d630d20800000000000000
+      internalID: 3243556528741082302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_v002_blue_and_yellow_small_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 41
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4af7474eaab12460800000000000000
+      internalID: 7215253335707220556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_v002_blue_and_yellow_small_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 43
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbc02fa0db876380800000000000000
+      internalID: -8978053603732173900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_v002_blue_and_yellow_small_4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 44
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9d21c7225de51b0800000000000000
+      internalID: -5665856937098290735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_v002_blue_and_yellow_small_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 45
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45142e3a4996e3e90800000000000000
+      internalID: -7044076680035286700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 738f49366c2e7af47bee9dce20b3cf07
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Bird_v002_blue_and_yellow_small_0: 2170911739334279833
+      Bird_v002_blue_and_yellow_small_1: 3243556528741082302
+      Bird_v002_blue_and_yellow_small_10: -6419091755234731565
+      Bird_v002_blue_and_yellow_small_11: 7804950610166451607
+      Bird_v002_blue_and_yellow_small_12: -6931880535779156021
+      Bird_v002_blue_and_yellow_small_13: 7169463904126103210
+      Bird_v002_blue_and_yellow_small_14: -5631463885990135732
+      Bird_v002_blue_and_yellow_small_15: 5486312655569124410
+      Bird_v002_blue_and_yellow_small_16: -8367219682039391119
+      Bird_v002_blue_and_yellow_small_17: -7079550694703070362
+      Bird_v002_blue_and_yellow_small_18: 1254760099708034335
+      Bird_v002_blue_and_yellow_small_19: 4126601794121759358
+      Bird_v002_blue_and_yellow_small_2: 7215253335707220556
+      Bird_v002_blue_and_yellow_small_20: -3244337806102355119
+      Bird_v002_blue_and_yellow_small_21: 8883756691533181450
+      Bird_v002_blue_and_yellow_small_22: -7173158451333327055
+      Bird_v002_blue_and_yellow_small_23: -8400856401304443231
+      Bird_v002_blue_and_yellow_small_24: 2175621972087293590
+      Bird_v002_blue_and_yellow_small_25: -6417233597712302714
+      Bird_v002_blue_and_yellow_small_26: 301938462857781420
+      Bird_v002_blue_and_yellow_small_27: 4783369243241727643
+      Bird_v002_blue_and_yellow_small_28: 4521310138428533713
+      Bird_v002_blue_and_yellow_small_29: -1179799595648244255
+      Bird_v002_blue_and_yellow_small_3: -8978053603732173900
+      Bird_v002_blue_and_yellow_small_30: -2162386297155706272
+      Bird_v002_blue_and_yellow_small_31: 6347187664752101352
+      Bird_v002_blue_and_yellow_small_32: 7609695995346126688
+      Bird_v002_blue_and_yellow_small_33: 7523810665381004694
+      Bird_v002_blue_and_yellow_small_34: 2547202496973213718
+      Bird_v002_blue_and_yellow_small_35: 7499914927190422029
+      Bird_v002_blue_and_yellow_small_36: 5643660022016523235
+      Bird_v002_blue_and_yellow_small_37: 7253382322348667817
+      Bird_v002_blue_and_yellow_small_38: 6489490835043191916
+      Bird_v002_blue_and_yellow_small_39: -6600968688837368807
+      Bird_v002_blue_and_yellow_small_4: -5665856937098290735
+      Bird_v002_blue_and_yellow_small_40: 756492661896300887
+      Bird_v002_blue_and_yellow_small_41: 5971667157989675035
+      Bird_v002_blue_and_yellow_small_42: 8800831182424548538
+      Bird_v002_blue_and_yellow_small_43: -3224949409321038832
+      Bird_v002_blue_and_yellow_small_44: 6470469311182317564
+      Bird_v002_blue_and_yellow_small_45: -7908034713319686066
+      Bird_v002_blue_and_yellow_small_46: -566217981627405506
+      Bird_v002_blue_and_yellow_small_47: -1123779849876107381
+      Bird_v002_blue_and_yellow_small_48: 3476691811908929521
+      Bird_v002_blue_and_yellow_small_49: 8865683991475198600
+      Bird_v002_blue_and_yellow_small_5: -7044076680035286700
+      Bird_v002_blue_and_yellow_small_50: 4456478913100409758
+      Bird_v002_blue_and_yellow_small_51: 3751213221049067135
+      Bird_v002_blue_and_yellow_small_52: -5428473754760168338
+      Bird_v002_blue_and_yellow_small_53: -4627034341836212192
+      Bird_v002_blue_and_yellow_small_54: 7693074323430231172
+      Bird_v002_blue_and_yellow_small_55: -3126332905052610637
+      Bird_v002_blue_and_yellow_small_56: 376609386498044410
+      Bird_v002_blue_and_yellow_small_57: -5789379994837080849
+      Bird_v002_blue_and_yellow_small_58: -196138292
+      Bird_v002_blue_and_yellow_small_6: -7015109845193430307
+      Bird_v002_blue_and_yellow_small_7: -8299367234194288782
+      Bird_v002_blue_and_yellow_small_8: 1455337434668242710
+      Bird_v002_blue_and_yellow_small_9: -3149949739615208528
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
